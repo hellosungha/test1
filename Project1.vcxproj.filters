@@ -24,7 +24,7 @@
     <ClCompile Include="b1_branch1_test1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="b1_branch1_test2.cpp">
+    <ClCompile Include="b1_branch1_test3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
